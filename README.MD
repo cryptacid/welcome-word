@@ -17,20 +17,15 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
+  [![twitter][twitter-shield]][twitter-url]
+  [![medium][medium-shield]][medium-url]
+  [![discord][discord-shield]][discord-url]
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://miro.medium.com/fit/c/88/88/1*yRT_10Fvynz3aObCyLnHkg.png" alt="Logo" width="88" height="88">
   </a>
 
 <h3 align="center">project_title</h3>
@@ -187,7 +182,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="center">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -198,7 +193,7 @@ Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="center">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -209,7 +204,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 * []()
 * []()
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="mid">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -225,6 +220,12 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [issues-url]: https://github.com/github_username/repo_name/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+
+[twitter-shield]: https://img.shields.io/twitter/follow/cryptacid?color=re&label=twitter&logo=twitter&logoColor=white&style=for-the-badge
+[twitter-url]: https://twitter.com/cryptacid
+[medium-shield]: https://img.shields.io/endpoint?label=medium&logo=medium&logoColor=white&style=for-the-badge&url=https%3A%2F%2Funtitled-xx0s2xdddu9w.runkit.sh%2F
+[medium-url]: https://medium.com/@cryptacid
+[discord-shield]: https://img.shields.io/endpoint?label=discord&logo=discord&logoColor=white&style=for-the-badge&url=https%3A%2F%2Funtitled-xx0s2xdddu9w.runkit.sh%2F
+[discord-url]: https://discord.com/users/406741858664972289
+
 [product-screenshot]: images/screenshot.png
